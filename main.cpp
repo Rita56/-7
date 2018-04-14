@@ -1,7 +1,9 @@
-#include<std.h>
+#include<sdt.h>
 
 main(){
 	int x,y;
-	printf("Введите 2 целых числа:\n");
+	printf("‚ведите 2 целых числа:\n");
 	scanf("%d%d",x,y);
+	printf("Сумма введенных чисел = %d",x+y);
+	return 0;
 }
