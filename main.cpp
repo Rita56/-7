@@ -7,5 +7,6 @@ main(){
 	printf("Сумма введенных чисел = %d",x+y);
 
 	printf("Разность введенных чисел = %d",x-y);
+	printf("rrrr");
 	return 0;
 }
